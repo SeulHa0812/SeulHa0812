@@ -88,7 +88,3 @@
     </td>
   </tr>
 </table>
-
----
-
-![night green version](profile-3d-contrib/profile-night-green.svg)
