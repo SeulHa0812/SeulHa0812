@@ -70,7 +70,7 @@
           <div style="margin-bottom: 10px;">
             <img src="https://img.shields.io/badge/IntelliJ-000000?style=flat-square&logo=IntelliJ-IDEA&logoColor=white" />
             <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=Visual-Studio-Code&logoColor=white" />
-            <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat-square&logo=Visual-Studio&logoColor=white" />
+            <!-- <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat-square&logo=Visual-Studio&logoColor=white" /> -->
             <!-- <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=Unity&logoColor=white" />
             <img src="https://img.shields.io/badge/Spyder-FF6F61?style=flat-square" /> -->
           </div>
