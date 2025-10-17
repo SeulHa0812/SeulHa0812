@@ -23,9 +23,6 @@
   <div style="box-shadow: 0 6px 15px rgba(0,0,0,0.15); border-radius: 15px; padding: 15px;">
     <div align="center" style="font-size: 14px;">
       <div style="margin-bottom: 10px;">
-        <!-- <a href="https://velog.io/@zzxxcc1433/posts" target="_blank">
-          <img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white" />
-        </a> -->
         <a href="https://github.com/SeulHa0812" target="_blank">
           <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white" />
         </a>
