@@ -14,7 +14,7 @@
     <!-- GitHub Stats -->
     <td style="padding: 10px; vertical-align: top; width: 50%;">
       <div style="box-shadow: 0 6px 15px rgba(0,0,0,0.15); border-radius: 15px; overflow: hidden;">
-        <img src="https://github-readme-stats.vercel.app/api?username=SeulHa&show_icons=true&theme=radical&hide_border=false&border_radius=15" 
+        <img src="https://github-readme-stats.vercel.app/api?username=SeulHa0812&show_icons=true&theme=radical&hide_border=false&border_radius=15" 
              style="width: 100%; max-width: 450px; display:block; border-radius:15px;" />
       </div>
     </td>
@@ -41,7 +41,7 @@
     <!-- Top Languages Compact -->
     <td style="padding: 10px; vertical-align: top; width: 50%;">
       <div style="box-shadow: 0 6px 15px rgba(0,0,0,0.15); border-radius: 15px; overflow: hidden;">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SeulHa&layout=compact&theme=radical&hide=html,css&border_radius=15" 
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SeulHa0812&layout=compact&theme=radical&hide=html,css&border_radius=15" 
              style="width: 100%; max-width: 450px; display:block; border-radius:15px;" />
       </div>
     </td>
@@ -67,18 +67,11 @@
           <div style="margin-bottom: 10px;">
             <img src="https://img.shields.io/badge/IntelliJ-000000?style=flat-square&logo=IntelliJ-IDEA&logoColor=white" />
             <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=Visual-Studio-Code&logoColor=white" />
-            <!-- <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat-square&logo=Visual-Studio&logoColor=white" /> -->
-            <!-- <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=Unity&logoColor=white" />
-            <img src="https://img.shields.io/badge/Spyder-FF6F61?style=flat-square" /> -->
           </div>
           <!-- DB / 데이터 -->
           <div>
             <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white" />
             <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=MariaDB&logoColor=white" />
-            <!-- <img src="https://img.shields.io/badge/Anaconda-44A833?style=flat-square&logo=Anaconda&logoColor=white" />
-            <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white" />
-            <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white" />
-            <img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=Keras&logoColor=white" /> -->
           </div>
         </div>
       </div>
