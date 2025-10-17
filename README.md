@@ -8,7 +8,7 @@
 </div>
 
 
-<!-- 테이블 1: GitHub Stats | 연락처 / Velog / GitHub -->
+<!-- 테이블 1: GitHub Stats | 연락처 / GitHub -->
 <table align="center" style="width: 100%; max-width: 1000px; border-collapse: collapse; text-align: center; margin-bottom: 0;">
   <tr>
     <!-- GitHub Stats -->
@@ -18,7 +18,7 @@
              style="width: 100%; max-width: 450px; display:block; border-radius:15px;" />
       </div>
     </td>
-    <!-- 연락처 / Velog / GitHub -->
+    <!-- 연락처 / GitHub -->
     <td style="padding: 10px; vertical-align: top; width: 50%;">
   <div style="box-shadow: 0 6px 15px rgba(0,0,0,0.15); border-radius: 15px; padding: 15px;">
     <div align="center" style="font-size: 14px;">
