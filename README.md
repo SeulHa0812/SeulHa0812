@@ -7,18 +7,17 @@
   />
 </div>
 
-
 <!-- GitHub Stats + Email -->
 <table align="center" style="width: 100%; max-width: 1000px; border-collapse: collapse; text-align: center;">
   <tr>
     <td style="padding: 10px; width: 50%; vertical-align: top;">
-      <div style="box-shadow: 0 6px 15px rgba(120,110,140,0.18); border-radius: 15px;">
+      <div style="box-shadow: 0 6px 15px rgba(150, 150, 150, 0.20); border-radius: 15px;">
         <img src="https://github-readme-stats.vercel.app/api?username=SeulHa0812&show_icons=true&theme=graywhite&hide_border=false&border_radius=15" 
              style="width: 100%; max-width: 450px; border-radius:15px;" />
       </div>
     </td>
     <td style="padding: 10px; width: 50%; vertical-align: top;">
-      <div style="box-shadow: 0 6px 15px rgba(120,110,140,0.18); border-radius: 15px; padding: 15px;">
+      <div style="box-shadow: 0 6px 15px rgba(150, 150, 150, 0.20); border-radius: 15px; padding: 15px;">
         <a href="https://github.com/SeulHa0812">
           <img src="https://img.shields.io/badge/GitHub-444444?style=flat-square&logo=GitHub&logoColor=white" />
         </a>
