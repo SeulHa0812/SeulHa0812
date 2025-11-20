@@ -20,7 +20,17 @@
         box-shadow: 0 4px 12px rgba(0,0,0,0.35);
       ">
         <img 
-          src="https://github-readme-stats.vercel.app/api?username=SeulHa0812&show_icons=true&theme=transparent&hide_border=true"
+          src="https://github-readme-stats.vercel.app/api
+            ?username=SeulHa0812
+            &show_icons=true
+            &bg_color=2b2b2b
+            &title_color=cfcbd8
+            &text_color=dddddd
+            &icon_color=aaa6be
+            &border_color=4a4a4a
+            &ring_color=8f8aa6
+            &hide_border=false
+            &border_radius=15"
           style="width: 100%; max-width: 450px;"
         />
       </div>
@@ -33,6 +43,7 @@
         border-radius: 15px; 
         padding: 20px;
         color: #e5e5e5;
+        font-size: 14px;
         box-shadow: 0 4px 12px rgba(0,0,0,0.35);
       ">
         <a href="https://github.com/SeulHa0812">
@@ -43,6 +54,7 @@
     </td>
   </tr>
 </table>
+
 
 
 <!-- 테이블 2: Top Languages Compact | 스택 배지 -->
