@@ -1,7 +1,7 @@
 <!-- 헤더 배너 -->
 <div align="center">
   <img 
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:666666,100:aaaaaa&height=200&section=header&text=Code%20With%20SeulHa&fontSize=40&fontColor=ffffff&fontAlign=70&fontAlignY=30&animation=fadeIn" 
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:8a8797,100:d8d6e5&height=200&section=header&text=Code%20With%20SeulHa&fontSize=40&fontColor=ffffff&fontAlign=70&fontAlignY=30&animation=fadeIn" 
     width="100%" 
     style="max-width:100%; height:auto;"
   />
