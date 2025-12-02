@@ -10,11 +10,11 @@
 <!-- 테이블 1: GitHub Stats | 연락처 / GitHub --> 
 <table align="center" style="width: 100%; max-width: 1000px; border-collapse: collapse; text-align: center; margin-bottom: 0;"> <tr> 
   <!-- GitHub Stats --> 
-  <td style="padding: 10px; vertical-align: top; width: 50%;"> 
+  <!-- <td style="padding: 10px; vertical-align: top; width: 50%;"> 
     <div style="box-shadow: 0 6px 15px rgba(0,0,0,0.15); border-radius: 15px; overflow: hidden;"> 
       <img src="https://github-readme-stats.vercel.app/api?username=SeulHa0812&show_icons=true&theme=radical&hide_border=false&border_radius=15" style="width: 100%; max-width: 450px; display:block; border-radius:15px;" /> 
     </div> 
-  </td> 
+  </td>  -->
   <!-- 연락처 / GitHub --> 
   <td style="padding: 10px; vertical-align: top; width: 50%;"> <div style="box-shadow: 0 6px 15px rgba(0,0,0,0.15); border-radius: 15px; padding: 15px;"> 
     <div align="center" style="font-size: 14px;"> 
@@ -34,12 +34,12 @@
 <table align="center" style="width: 100%; max-width: 1000px; border-collapse: collapse; text-align: center; margin-top: 0;">
   <tr>
     <!-- Top Languages Compact -->
-    <td style="padding: 10px; vertical-align: top; width: 50%;">
+    <!-- <td style="padding: 10px; vertical-align: top; width: 50%;">
       <div style="box-shadow: 0 6px 15px rgba(0,0,0,0.15); border-radius: 15px; overflow: hidden;">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SeulHa0812&layout=compact&theme=radical&hide=html,css&border_radius=15" 
              style="width: 100%; max-width: 450px; display:block; border-radius:15px;" />
       </div>
-    </td>
+    </td> -->
     <!-- 스택 배지 -->
     <td style="padding: 10px; vertical-align: top; width: 50%;">
       <div style="box-shadow: 0 6px 15px rgba(0,0,0,0.15); border-radius: 15px; padding: 15px;">
