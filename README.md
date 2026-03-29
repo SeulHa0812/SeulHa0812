@@ -36,7 +36,7 @@
     <!-- Top Languages Compact -->
     <td style="padding: 10px; vertical-align: top; width: 50%;">
       <div style="box-shadow: 0 6px 15px rgba(0,0,0,0.15); border-radius: 15px; overflow: hidden;">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SeulHa0812&layout=compact&theme=radical&hide=html,css&border_radius=15" 
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SeulHa0812&layout=donut&theme=radical&hide=html,css&border_radius=15" 
              style="width: 100%; max-width: 450px; display:block; border-radius:15px;" />
       </div>
     </td>
