@@ -62,11 +62,20 @@
           <div style="margin-bottom: 10px;">
             <img src="https://img.shields.io/badge/IntelliJ-000000?style=flat-square&logo=IntelliJ-IDEA&logoColor=white" />
             <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=Visual-Studio-Code&logoColor=white" />
+            <img src="https://img.shields.io/badge/Jupyter-DA5B0B?style=flat-square&logo=Jupyter&logoColor=white" />
           </div>
           <!-- DB / 데이터 -->
           <div>
             <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white" />
             <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=MariaDB&logoColor=white" />
+          </div>
+          <!-- 데이터 라이브러리 -->
+          <div style="margin-bottom: 10px;">
+            <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=NumPy&logoColor=white" />
+            <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=Pandas&logoColor=white" />
+            <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=Plotly&logoColor=white" />
+            <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square&logoColor=white" />
+            <!-- <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" /> -->
           </div>
         </div>
       </div>
